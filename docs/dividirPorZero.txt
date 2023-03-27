@@ -1,0 +1,21 @@
+
+
+80 / 8 = 10
+10 / 5 = 2
+ 2 / 2 = 1
+ 1 / 2 = 0,5
+ 1 / 1 = 1
+ 1 / 0,5 = 2
+ 1 / 0,25 = 4
+ 1 / 0,1 = 10
+ 1 / 0,01 = 100
+ 1 / 0,001 = 1000
+ -----> Infinito positivo
+
+ 1 / -0,5 = -2
+ 1 / -0,25 = -4
+ 1 / -1 = -1
+ 1 / -0,1 = -10
+
+ obs: quando o número que está divindindo é maior que 1, sempre teremos um resultado menor
+ mas se dividimos por número decimal menor que 1 o resultado vai aumentando

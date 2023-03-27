@@ -1,0 +1,22 @@
+Testes de API
+Testar a comunicação e processamento entre
+sistemas que conversam via uma ou mais APis
+
+Quando não tem APis, o teste se concentra:
+- Telas/Páginas (UI): lento, caro, completo, quebradiço
+- Testes de Unidade: pode ser pouco
+
+Os principais tipos de testes com APIs:
+Saber testar o CRUD
+- Incluir       - Create
+- Consultar     - Reach?Read?Research
+- Atualizar     - Update
+- Excluir       - Delete
+
+LGPD - Lei geral de proteção de dados
+- Dá o direito de ser esquecido
+Excluir
+- Fisica: apagar mesmo do banco de dados --> delete
+- Lógiva: "desligar" o registro/ cliente --> Update status
+
+Além de testar o CRUD é importante encadear transações, principalmente envolvendo tokens
